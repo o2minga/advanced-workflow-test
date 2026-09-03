@@ -117,7 +117,7 @@ body {
         top: calc(2 * var(--offset));
     }
 
-    25.00% {
+    35.00% {
         left: calc(1 * var(--offset));
         top: calc(1 * var(--offset));
     }
@@ -127,7 +127,7 @@ body {
         top: calc(1 * var(--offset));
     }
 
-    91.67% {
+    93.67% {
         left: calc(1 * var(--offset));
         top: calc(0 * var(--offset));
     }
